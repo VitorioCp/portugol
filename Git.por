@@ -22,6 +22,7 @@ inteiro opcao
     escreva("3) Git commit -m (nome do commit) \n")
     escreva("4) Git remote add origin (endereco) \n")
     escreva("5) Git push -u origin (branch)\n")
+    escreva("6) Git checkout -b -> criar \n")
   }
 
 funcao opcaoEscolhaCmd(){
